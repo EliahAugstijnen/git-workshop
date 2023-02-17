@@ -2,4 +2,6 @@ Our Heroes
 ==========
 * Ryan
 * Reinier
-* Amkmmmm
+* Simon
+* Gijs
+* George Floyd
