@@ -5,3 +5,5 @@ Our Heroes
 * Simon
 * Gijs
 * George Floyd
+* Kasper
+* Gijs
